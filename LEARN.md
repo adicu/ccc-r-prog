@@ -1,6 +1,6 @@
 ## No Prior R Experience
 
-[Intro R]("https://github.com/lesley2958/intro-r/blob/master/Intro to R.ipynb")
+[Intro R](https://github.com/adicu/ccc-r-prog/blob/master/Intro%20to%20R.ipynb)
 
 ## Prior R Experience
 
